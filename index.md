@@ -14,6 +14,15 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### H4
+##### H5
+###### H6
+
+Alt-H1
+=====
+
+Alt-H2
+-----
 
 - Bulleted
 - List
@@ -22,6 +31,11 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+*this single astrick is also italic*
+**Double astricks are bold**
+_underscores are italic_
+**_double astricks with underscores makes in bold and italic_**
+~~2 tildes makes strikethrough~~
 
 [Link](url) and ![Image](src)
 ```
