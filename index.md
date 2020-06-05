@@ -14,16 +14,38 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 #### Header 4
 ##### Header 5
 ###### Header 6
-####### Header 7
 
 Alt-H1
-=====
+==
 Alt-H2
------
-Alt-H1
-===
-Alt-H1
+--
 
+- bulleted List
+- item 2
+- item 3
+
+**Bold is between pair of 2 astricks**
+
+*italic is between pair of 1 astrick*
+_or pair of underscores_
+
+~~strikethrough is a pair of 2 tildes~~
+
+
+1. order list
+  * unordered List
+  * star works
+  - minus works as well
+  + plus too
+2. item 2
+  1. ordered sub list
+  2. more items
+4. actual number doesn't matter  
+   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown)
+   To have a line break without a paragraph, you will need to use two trailing spaces.  
+   Note that this line is separate, but within the same paragraph.  
+   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+5. one more item   
 
 ```markdown
 Syntax highlighted code block
@@ -31,9 +53,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-#### H4
-##### H5
-###### H6
 
 Alt-H1
 =====
