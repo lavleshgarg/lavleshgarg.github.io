@@ -63,7 +63,7 @@ _or pair of underscores_
 
 [You can use numbers for reference-style link definitions][1]
 
-[I'm a relative reference to repository file](_config.yml)
+[ServiceNow Operation Manual](../NBSA/servicenow-operation-manual.md)
 
 Or leave it empty and use the [link text itself].
 
