@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[ServiceNow Operation Manual](../NBSA/servicenow-operation-manual.html)
+[ServiceNow Operation Manual](../NBSA/servicenow-operation-manual.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

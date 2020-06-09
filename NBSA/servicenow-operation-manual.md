@@ -1,9 +1,9 @@
 # ServiceNow Operation Manual
 
 ## Content
-1. [Applications](#Applications)
+1. [Applications](#applications)
    1. [Service Call](#service-call)
-   1. Incident Management
+   1. [Incident Management](#incident-management)
    1. Problem Management
    1. Change Management
    1. Asset Management
@@ -54,3 +54,30 @@
 ## Applications
 
 ### Service Call
+
+**Application Type**: Custom
+
+Service Call is an application for users to be able to make requests. Requesters mainly use this application to request or report an issue.
+
+**Stakeholders**
+1. NBS America
+1. NBS Europe
+1. Office 365 [Tokyo]
+1. Cloud Infra Support [Tokyo]
+1. STAR [Kuek's Team]
+
+**Integrations**
+1. IBM ServiceNow (SOAP)
+
+### Incident Management
+
+Incident Management is mostly used by Fulfillers (Support teams working on issues like L1, L2 teams, Infrastructure teams) to work on issues either reported by users or alerting systems.
+
+**Stakeholders**
+1. NBS America
+1. NBS Europe
+
+**Integrations**
+1. IBM ServiceNow (SOAP)
+1. GIS
+1. GIS-RORO
