@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+[ServiceNow Operation Manual](../NBSA/servicenow-operation-manual.html)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 # Header 1
@@ -62,8 +64,6 @@ _or pair of underscores_
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
 [You can use numbers for reference-style link definitions][1]
-
-[ServiceNow Operation Manual](../NBSA/servicenow-operation-manual.md)
 
 Or leave it empty and use the [link text itself].
 
